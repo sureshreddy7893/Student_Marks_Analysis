@@ -62,8 +62,8 @@ The goal is to uncover insights about how attendance affects academic performanc
 
 🙌 Let’s Connect
 Feel free to connect or suggest improvements!  
-📧 Email: [Your Email]  
-💼 LinkedIn: [Your LinkedIn Profile]
+📧 Email: sureshreddy7893@gmail.com  
+💼 LinkedIn: http://www.linkedin.com/in/suresh-reddy-munagala-b9a5b615a
 
 ---
 
