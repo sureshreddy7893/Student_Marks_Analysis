@@ -56,7 +56,7 @@ The goal is to uncover insights about how attendance affects academic performanc
 ---
 
 🔗 Project Report (View Online)
-- [PDF Report Link](#) (Add GitHub or Google Drive link)
+- [PDF Report Link](https://github.com/sureshreddy7893/Student_Marks_Analysis) (Add GitHub or Google Drive link)
 
 ---
 
